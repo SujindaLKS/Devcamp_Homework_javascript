@@ -1,4 +1,4 @@
-const drawH32 = function(n) {
+const draw32 = function(n) {
   let text = '';
   let left = n;
   let right = n;
